@@ -18,11 +18,6 @@ Exit=sys.exit
 argumen=sys.argv
 
 import pymysql
-from Penyakit import*
-from Gejala import*
-from Kasus import*
-from Login import*
-from Admin import*
 from Konsultasi import*
 
 host='127.0.0.1'
